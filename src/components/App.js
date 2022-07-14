@@ -14,6 +14,6 @@ function App() {
       <ProjectList projects={user.projects} />
     </div>
   );
-}
+} 
 
 export default App;
